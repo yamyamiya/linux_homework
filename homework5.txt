@@ -1,0 +1,8 @@
+   0 env
+   1 export USER=Olga
+   2 env
+   3 nano myfirstbashscript.sh
+   4 ls -l
+   5 chmod 744 /root/myfirstbashscript.sh 
+   6 ./myfirstbashscript.sh 
+   7 history >> homework5.txt
