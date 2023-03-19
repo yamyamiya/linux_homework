@@ -1,0 +1,7 @@
+   0 nano newscript.sh
+   1 chmod 744 newscript.sh 
+   2 ./newscript.sh 
+   3 cd /tmp/test/mewfile
+   4 ls -l
+   5 cat Olga.txt
+   6 history >> homework6.txt
