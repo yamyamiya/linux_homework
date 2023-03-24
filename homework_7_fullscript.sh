@@ -5,7 +5,7 @@ read NAME
 echo "Welcome to terminal $NAME"
 mkdir -p /tmp/test
 > /tmp/mydate.txt
-date >> /tmp/mydate.txt
+date +%H:%M:%S >> /tmp/mydate.txt
 echo "Saving data"
 for i in {1..10}
 do
